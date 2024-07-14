@@ -1,13 +1,13 @@
 <body></body>
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Pasith Senevirathna</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />, I'm Pasith Senevirathna</h1>
 <h3 align="center">Full Stack Software Engineer | Backend Developer</h3>
 
 
 # 💫 About Me :
   - 😄 Pronouns: He/His
-  - 🔭 I’m currently building **[Stock Management System](https://github.com/pasiths/react-stock-management)**.
+  - 🔭 I’m currently building **[assetcate.com](https://github.com/pasiths/assetcate.com.git)**.
   - 📚 I’m currently learning **REST API**.
-  - 💬 Ask me about **Node.js, Java or C#**.
+  - 💬 Ask me about **Node.js, Java, Python or C#**.
   - 📫 How to reach me **Check social links**.
   - ⚡ Fun fact **I listening to songs every day**.
 
@@ -16,9 +16,11 @@
   <a href="mailto:pasith.senevi02@gmail.com" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="Gmail" width="40" height="40"></a>
   <a href="https://linkedin.com/in/pasiths" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="Linkedin" width="40" height="40"></a>
   <a href="https://instagram.com/pasiths_" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram" width="40" height="40"></a>
-  <!--<a href="https://twitter.com/" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="Twitter" width="40" height="40"></a>
+  <a href="https://www.youtube.com/@pasiths_dev" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" alt="Youtube" width="40" height="40"></a>	
+  <a href="https://x.com/pasiths_" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="Twitter" width="40" height="40"></a>
+  <!--
   <a href="https://discord.gg/" target="blank"><img src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-512.png" alt="Discord" width="40" height="40"></a>
-  <a href="https://www.youtube.com/c/pasiths" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" alt="Youtube" width="40" height="40"></a> -->
+   -->
 </p>
 
 ## 💻 Tech Stack
