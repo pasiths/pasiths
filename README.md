@@ -5,7 +5,7 @@
 
 # 💫 About Me :
   - 😄 Pronouns: He/His
-  - 🔭 I’m currently building **[assetcate.com](https://github.com/pasiths/assetcate.com.git)**.
+  - 🔭 I’m currently building **[skilled_project](https://github.com/pasiths/skilled_project.git)**.
   - 📚 I’m currently learning **REST API**.
   - 💬 Ask me about **Node.js, Java, Python or C#**.
   - 📫 How to reach me **Check social links**.
