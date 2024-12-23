@@ -1,5 +1,5 @@
 <body></body>
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />, I'm Pasith Senevirathna</h1>
+<h1 align="center"> Hi 👋, I'm Pasith Senevirathna</h1>
 <h3 align="center">Full Stack Software Engineer | Backend Developer</h3>
 
 
@@ -57,4 +57,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ### 💖 Support Me
-<p><a href="https://www.buymeacoffee.com/pasiths"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee - Pasith Senevirathna" /></a></p>
+<p><a href="https://www.buymeacoffee.com/"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee - Pasith Senevirathna" /></a></p>
