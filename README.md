@@ -57,4 +57,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ### 💖 Support Me
-<p><a href="https://www.buymeacoffee.com/"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee - Pasith Senevirathna" /></a></p>
+<p><a href="https://www.buymeacoffee.com/pasiths"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee - Pasith Senevirathna" /></a></p>
