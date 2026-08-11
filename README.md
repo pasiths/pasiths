@@ -1,34 +1,40 @@
 <!--
-  GitHub Profile README — Pasith Senevirathna
-  Inspired by popular profile READMEs (typing SVG, skillicons, capsule-render, stats cards)
-  Repo: https://github.com/pasiths/pasiths
+  Pasith Senevirathna | Full Stack Software Engineer | Backend Developer
+  Colombo, Sri Lanka | Node.js, Java, Spring Boot, Laravel, React, PHP, Flutter
+  Keywords: software engineer Sri Lanka, backend developer Colombo, full stack developer,
+  MERN, REST API, microservices, Docker, PostgreSQL, MongoDB, MySQL
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=180&section=header&text=Pasith%20Senevirathna&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=16" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=180&section=header&text=Pasith%20Senevirathna&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=16" alt="Pasith Senevirathna - Full Stack Software Engineer and Backend Developer from Colombo Sri Lanka" width="100%" />
 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="wave" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="Waving hand animation" />
 
-  <h1>Hi, I'm Pasith Senevirathna</h1>
+  <h1>Pasith Senevirathna — Full Stack Software Engineer & Backend Developer</h1>
+
+  <p>
+    <strong>Full Stack Software Engineer</strong> · <strong>Backend Developer</strong> · Colombo, Sri Lanka<br />
+    Building REST APIs, microservices, and modern web & mobile applications
+  </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Backend+Developer;Building+APIs+%26+Web+Apps;Based+in+Colombo%2C+Sri+Lanka" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+Software+Engineer;Backend+Developer;Node.js+%7C+Java+%7C+Laravel+%7C+React;Based+in+Colombo%2C+Sri+Lanka" alt="Pasith Senevirathna typing animation: Full Stack Software Engineer, Backend Developer" />
   </a>
 
   <br /><br />
 
   <a href="https://www.linkedin.com/in/pasiths/">
-    <img src="https://img.shields.io/badge/LinkedIn-pasiths-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-pasiths-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pasith Senevirathna LinkedIn profile" />
   </a>
   <a href="https://github.com/pasiths">
-    <img src="https://img.shields.io/badge/GitHub-pasiths-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-pasiths-181717?style=for-the-badge&logo=github&logoColor=white" alt="Pasith Senevirathna GitHub profile" />
   </a>
   <a href="mailto:pasith.info@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pasith.info@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-pasith.info@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pasith Senevirathna" />
   </a>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=pasiths&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pasiths&label=Profile%20views&color=0e75b6&style=flat" alt="Pasith Senevirathna GitHub profile view count" />
 
 </div>
 
@@ -36,12 +42,14 @@
 
 ## About Me
 
-I'm a **Computer Software Engineering** student at [NIBM](https://www.nibm.lk/) with a strong focus on **backend development** and full-stack web applications. I enjoy turning ideas into practical systems — from REST APIs and microservices to mobile and AI-assisted products.
+I'm **Pasith Senevirathna**, a **Full Stack Software Engineer** and **Backend Developer** based in **Colombo, Sri Lanka**. I'm studying Computer Software Engineering at [NIBM](https://www.nibm.lk/) and specialize in **backend development**, **REST APIs**, **microservices**, and full-stack web applications using **Node.js**, **Java**, **PHP/Laravel**, and **React**.
 
-- Backend-first mindset with hands-on full-stack delivery
-- Experience across internships and product teams
-- Currently exploring clean architecture, Docker, and AI-powered apps
-- Open to collaboration and new opportunities
+- Backend-first engineer with full-stack delivery experience
+- Hands-on with internships and product/startup teams
+- Exploring clean architecture, **Docker**, and AI-powered applications
+- Open to software engineering roles, freelance work, and collaborations
+
+**Search keywords:** Full Stack Developer Sri Lanka · Backend Developer Colombo · Node.js Developer · Java Spring Boot · Laravel PHP · React · MERN Stack · REST API · Software Engineer NIBM
 
 ---
 
@@ -54,22 +62,25 @@ I'm a **Computer Software Engineering** student at [NIBM](https://www.nibm.lk/) 
 | Back End Developer | [Syncraft](https://www.linkedin.com/company/syncraft607) | Nov 2023 – Nov 2024 |
 | Web Developer | Independent | Jan 2022 – Present |
 
-At **Intro Soft**, I worked on full-stack apps with **PHP & Laravel** — development, testing, deployment, requirement gathering, and technical support.
+At **Intro Soft Global Solutions**, I built and maintained full-stack web applications with **PHP** and **Laravel**, including development, testing, deployment, requirement gathering, and technical support.
 
 ---
 
 ## Tech Stack
 
+**Languages:** JavaScript, TypeScript, Java, C#, PHP, Python, Dart, HTML5, CSS3, C  
+
+**Frameworks:** Node.js, Express.js, React, Spring Boot, Laravel, Flutter, Vite  
+
+**Databases & tools:** MongoDB, PostgreSQL, MySQL, Microsoft SQL Server, Docker, Git, Linux, GitHub  
+
 <div align="center">
 
-  ### Languages
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,php,python,dart,html,css,c" alt="languages" />
-
-  ### Frameworks & Libraries
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,spring,laravel,flutter,vite" alt="frameworks" />
-
-  ### Databases & Tools
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,linux,github,vscode" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,php,python,dart,html,css,c" alt="Programming languages: JavaScript TypeScript Java C# PHP Python Dart HTML CSS C" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,spring,laravel,flutter,vite" alt="Frameworks: Node.js Express React Spring Boot Laravel Flutter Vite" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,linux,github,vscode" alt="Tools: MongoDB PostgreSQL MySQL Docker Git Linux GitHub VS Code" />
 
 </div>
 
@@ -78,7 +89,7 @@ At **Intro Soft**, I worked on full-stack apps with **PHP & Laravel** — develo
 ## Education
 
 - **Higher National Diploma — Computer Software Engineering**  
-  [NIBM](https://www.nibm.lk/), Sri Lanka · 2023 – Present
+  [National Institute of Business Management (NIBM)](https://www.nibm.lk/), Colombo, Sri Lanka · 2023 – Present
 
 - **Diploma — Computer Software Engineering**  
   NIBM, Sri Lanka · 2022 – 2023
@@ -105,21 +116,20 @@ At **Intro Soft**, I worked on full-stack apps with **PHP & Laravel** — develo
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=pasiths&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pasiths&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=pasiths&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Pasith Senevirathna GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pasiths&layout=compact&theme=tokyonight&hide_border=true" alt="Pasith Senevirathna top programming languages on GitHub" />
 
   <br />
 
-  <img src="https://streak-stats.demolab.com/?user=pasiths&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=pasiths&theme=tokyonight&hide_border=true" alt="Pasith Senevirathna GitHub contribution streak" />
 
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasiths&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasiths&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Pasith Senevirathna GitHub contribution activity graph" width="100%" />
 
   <br />
 
-  <!-- Contribution snake (generated by GitHub Action) -->
-  <img alt="snake" src="https://raw.githubusercontent.com/pasiths/pasiths/output/github-contribution-grid-snake.svg" />
+  <img alt="Pasith Senevirathna GitHub contribution snake animation" src="https://raw.githubusercontent.com/pasiths/pasiths/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -127,22 +137,27 @@ At **Intro Soft**, I worked on full-stack apps with **PHP & Laravel** — develo
 
 ## Let's Connect
 
-I'm always open to interesting projects, backend challenges, and collaborations.
+Looking for a **Full Stack** or **Backend Software Engineer** in Sri Lanka or remote? Let's talk.
+
+- LinkedIn: [linkedin.com/in/pasiths](https://www.linkedin.com/in/pasiths/)
+- GitHub: [github.com/pasiths](https://github.com/pasiths)
+- Email: [pasith.info@gmail.com](mailto:pasith.info@gmail.com)
+- YouTube: [youtube.com/@pasiths_dev](https://www.youtube.com/@pasiths_dev)
 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/pasiths/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Pasith Senevirathna on LinkedIn" />
   </a>
   <a href="mailto:pasith.info@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pasith Senevirathna" />
   </a>
   <a href="https://github.com/pasiths?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse Pasith Senevirathna GitHub repositories" />
   </a>
 
 </div>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer" alt="Footer banner for Pasith Senevirathna GitHub profile" width="100%" />
