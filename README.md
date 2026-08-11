@@ -58,39 +58,6 @@ At **Intro Soft**, I worked on full-stack apps with **PHP & Laravel** — develo
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/pasiths/AdvaJobs">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=pasiths&repo=AdvaJobs&theme=tokyonight&hide_border=true" alt="AdvaJobs" />
-  </a>
-  <a href="https://github.com/pasiths/I2C-ChatBox">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=pasiths&repo=I2C-ChatBox&theme=tokyonight&hide_border=true" alt="I2C-ChatBox" />
-  </a>
-  <br />
-  <a href="https://github.com/pasiths/NuraNest">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=pasiths&repo=NuraNest&theme=tokyonight&hide_border=true" alt="NuraNest" />
-  </a>
-  <a href="https://github.com/pasiths/blog-platform">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=pasiths&repo=blog-platform&theme=tokyonight&hide_border=true" alt="blog-platform" />
-  </a>
-
-</div>
-
-<br />
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [AdvaJobs](https://github.com/pasiths/AdvaJobs) | Job platform for seekers & employers (auth, posting, applications) | React · Spring Boot · Microservices |
-| [NuraNest](https://github.com/pasiths/NuraNest) | AI mental-wellness app with chatbot & psychologist sessions | Flutter · Node.js · PostgreSQL · Llama |
-| [I2C-ChatBox](https://github.com/pasiths/I2C-ChatBox) | Real-time chat with auth — [Live demo](https://i2c-chatbox.onrender.com) | React · Express · MongoDB |
-| [blog-platform](https://github.com/pasiths/blog-platform) | Blog platform | TypeScript |
-| [AnyStore](https://github.com/pasiths/AnyStore) | Store / inventory app | C# |
-| [restaurant-website](https://github.com/pasiths/restaurant-website) | Responsive restaurant site | HTML · CSS · JS |
-
----
-
 ## Tech Stack
 
 <div align="center">
